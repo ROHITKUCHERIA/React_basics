@@ -1,0 +1,26 @@
+ *{ margin: 0; padding: 0; box-sizing: border-box;}
+body{
+    background-color: #0eeafa2c;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+}
+.first_div{
+    margin-top:10%;
+    margin-left: 45%;
+}
+button{
+    width: 20%;
+    height: 20%;
+}
+
+@media (max-width:768px){
+    .first_div{
+        float: none;
+        margin: 5%;
+        width:90%;
+    }
+} 
+
+
+
